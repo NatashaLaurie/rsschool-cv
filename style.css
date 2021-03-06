@@ -45,3 +45,12 @@
   a:hover {
     text-decoration: underline;
   }
+  footer {
+    flex: 0 0 auto;
+    height: 30px;
+    margin-top: 10px;
+    text-align: center;
+  }
+  #logo {
+    height: 30px;
+  }
