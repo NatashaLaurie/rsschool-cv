@@ -26,4 +26,28 @@ So, it’s an area I’m extremely keen to progress.
 
 * Git
 * Microsoft Visual Studio, Visual Studio Code
-* Linux systems usage (Ubuntu);
+* Linux systems usage (Ubuntu)
+
+### Sample code:
+``` 
+void FisherYatesShuffle(double arr[], const int N) {
+  for (int i = N - 1; i > 0; --i) {
+    int j = rand() % (i + 1);
+    swap(arr[i], arr[j]);
+  }
+} 
+```
+### Projects:
+(… )
+
+### Education:
+* Mechanics and Mathematics faculty of Belarusian State University (Student)\
+Specialty: Mathematics and Information Technologies\
+Direction: Web-Programming and Internet Technologies
+* Glo-Academy HTML-layout free courses
+* Stepik (educational platform) - “Learn to program, the fundamentals”, “JavaScript fo beginners” courses
+
+### Languages:
+* Russian (native)
+* English (intermediate)
+* German (intermediate)
