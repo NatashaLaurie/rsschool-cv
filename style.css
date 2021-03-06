@@ -38,3 +38,10 @@
   .skills p {
     margin-bottom: 3px;
   }
+  a {
+    text-decoration: none;
+    color: #000000;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
